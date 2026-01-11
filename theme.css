@@ -114,6 +114,8 @@
 }
 
 body {
+    --file-line-width: 780px;
+
     --accent-h: 12;
     /* --faded-red #9d0006 */
     --accent-s: 107%;
